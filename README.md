@@ -1,6 +1,4 @@
 # luci-app-smartdns
-luci for smartdns
-# luci-app-smartdns
 
 此仓库为smartdns独立仓库，为单独编译使用, 在安装此界面前，需要先安装smartdns进程编译脚本。  
 请先安装[openwrt-smartdns](https://github.com/pymumu/openwrt-smartdns)
